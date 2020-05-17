@@ -13,5 +13,7 @@ Encoder mount | 2
 ODrive mount | 1
 Motor mount | 2
 Chassis | 1
-## Falsh Framework
-Visit https://github.com/Nate711/ODrive/tree/ec25d02f7036b0d7eff010fdc516bd0054a86c56 or clone 
+### Falsh Framework
+Visit https://github.com/Nate711/ODrive/tree/ec25d02f7036b0d7eff010fdc516bd0054a86c56 to get code to flash ODrive.
+The tutorial of flashing ODrive can be seen in Odrive website here: https://docs.odriverobotics.com/odrivetool.
+### Run jumpcode.py to let it jump!
