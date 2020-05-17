@@ -1,0 +1,17 @@
+# ODrive-Hopper
+Build instructions and code for a direct-drive ODrive hopper
+## Getting Started
+Follow the instrction to prepare materials and code script you need to build an Odrive Hopper.
+### Hardware
+A quick list of what you need is below. (Refer to instrcution for more details)
+Materials | Quantity
+------------ | -------------
+T-motor | 2
+ODrive | 1
+Motor encoder | 2
+Encoder mount | 2
+ODrive mount | 1
+Motor mount | 2
+Chassis | 1
+## Falsh Framework
+Visit https://github.com/Nate711/ODrive/tree/ec25d02f7036b0d7eff010fdc516bd0054a86c56 or clone 
