@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Tang
+    given-names: Weiyi
+title: "ODrive Hopper Library"
+version: 1.0.0
+date-released: 2020-05-16
